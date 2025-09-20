@@ -22,10 +22,7 @@ The app allows users to create, edit, and manage their daily tasks with a clean 
 
 ##  Tech Stack
 - Flutter & Dart – UI & Logic
- 
 
-# Navigate to project directory
-cd Taskati-app
 
 # Install dependencies
 flutter pub get
